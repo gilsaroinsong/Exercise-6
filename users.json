@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "clifford",
+      "last_name": "mantow",
+      "email": "cliffmantow@gmail.com"
+    },
+    {
+      "first_name": "Davidson",
+      "last_name": "Manso",
+      "email": "dvd@gmail.com",
+      "id": 2
+    }
+  ]
+}
